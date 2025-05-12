@@ -1,13 +1,11 @@
 ---
 name: Troubleshooting-Notes
 about: 트러블 슈팅 템플릿
-title: ''
+title: "# 2025-00-00 제목"
 labels: Trouble Shooting
 assignees: ''
 
 ---
-
-# 2025-00-00 제목
 
 ## 🐞 에러 내용
 
